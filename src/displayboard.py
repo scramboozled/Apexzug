@@ -1,6 +1,6 @@
 import os
 import pygame
-from config import *
+from Config import *
 
 class DisplayBoard():
     image_values = {'black_pawn':   -1, 'white_pawn':   1, 'black_knight': -2, 'white_knight': 2, 'black_bishop': -3, 'white_bishop': 3,
